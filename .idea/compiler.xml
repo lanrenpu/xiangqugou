@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic-util" />
+        <module name="qxg-plat-service" />
+        <module name="xiangqugouparent" />
+        <module name="xqg-eureka" />
+        <module name="xqg-eureka-7001" />
+        <module name="xqg-plat-interface" />
+        <module name="xqg-plat-service" />
+        <module name="xqg-plat-service-8001" />
+        <module name="zuul-gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic-parent" target="1.8" />
+      <module name="basic-util" target="1.8" />
+      <module name="qxg-plat-service" target="1.8" />
+      <module name="xiangqugou-parent" target="1.8" />
+      <module name="xiangqugouparent" target="1.8" />
+      <module name="xqg-basic" target="1.8" />
+      <module name="xqg-eureka" target="1.8" />
+      <module name="xqg-eureka-7001" target="1.8" />
+      <module name="xqg-parent" target="1.8" />
+      <module name="xqg-plat-interface" target="1.8" />
+      <module name="xqg-plat-parent" target="1.8" />
+      <module name="xqg-plat-service" target="1.8" />
+      <module name="xqg-plat-service-8001" target="1.8" />
+      <module name="xqg_plat_parent" target="1.8" />
+      <module name="zuul-gateway-9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
