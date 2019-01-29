@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ZuulGateWayApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" editBeforeRun="true">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="cn.etc.xqg.ZuulGateWayApplication_9527" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="zuul-gateway-9527" />
+    <envs />
+    <method />
+  </configuration>
+</component>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" filepath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-1299/config-server-1299.iml" filepath="$PROJECT_DIR$/config-server-1299/config-server-1299.iml" />
       <module fileurl="file://$PROJECT_DIR$/xqg-eureka-7001/xqg-eureka-7001.iml" filepath="$PROJECT_DIR$/xqg-eureka-7001/xqg-eureka-7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/xqg-parent.iml" filepath="$PROJECT_DIR$/xqg-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/xqg-plat-parent/xqg-plat-interface/xqg-plat-interface.iml" filepath="$PROJECT_DIR$/xqg-plat-parent/xqg-plat-interface/xqg-plat-interface.iml" />
